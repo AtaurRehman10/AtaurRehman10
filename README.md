@@ -4,7 +4,15 @@
 
 <!--Top Banner End-->
 
-<h1 align="center">Hi 👋, I'm AtaurRehman</h1>
+<!--Intro & Greerings-->
+
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+AtaurRehman!;Great+to+Have+You+Here!&center=true&size=25">
+  </a>
+</h1>
+
+<!--Greetings End-->
 <h3 align="center">Software Engineer @Student | Frontend Web Developer</h3>
 <br/>
 
