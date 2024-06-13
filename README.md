@@ -1,6 +1,6 @@
 <!--Top Banner-->
 
-<img src="https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D-file/github-header-image.png" align="center" style="width: 100%" />
+<img src="https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-header-image.png" align="center" style="width: 100%" />
 
 <!--Top Banner End-->
 
@@ -45,7 +45,7 @@
 <h2 align="center">Let Me Feed on Data.🐍</h2>
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D-file/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 <!-- Snake GifEnd here ... -->
