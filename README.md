@@ -1,5 +1,8 @@
-![Header](./https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D-file/github-header-image.png)
+<!--Top Banner-->
 
+<img src="https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D-file/github-header-image.png" align="center" style="width: 100%" />
+
+<!--Top Banner End-->
 
 <h1 align="center">Hi 👋, I'm AtaurRehman</h1>
 <h3 align="center">Software Engineer @Student | Frontend Web Developer</h3>
