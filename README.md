@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D-file/github-header-image.png)
 
 
 <h1 align="center">Hi 👋, I'm AtaurRehman</h1>
