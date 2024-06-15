@@ -20,7 +20,7 @@
 <!-- Snake Gif -->
 
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Problem solving**
 
