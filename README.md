@@ -28,9 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ataurrehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="frontend developer" height="30" width="40" /></a>
 <a href="https://twitter.com/ataulrehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ataulrehman" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ataur-rehman%E2%9C%94-77a9332a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ataurrehman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ataurrehman-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ataurrehman" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ataulrehman.30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ataulrehman" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ataulrehmangee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ataulrehman" height="30" width="40" /></a>
 </p>
