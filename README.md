@@ -76,10 +76,6 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <!-- Express (white logo for dark mode) -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color:white; border-radius:6px; padding:5px;"/>
-  </a>
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -127,10 +123,6 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   <!-- AWS (light version for dark mode) -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="aws" width="40" height="40"/>
-  </a>
-  <!-- DigitalOcean -->
-  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-2.svg" alt="digitalocean" width="40" height="40"/>
   </a>
   <!-- Vercel (white version) -->
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
