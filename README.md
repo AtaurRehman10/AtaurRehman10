@@ -22,11 +22,24 @@
 <!-- Snake Gif -->
 
 
-- 🌱 I’m currently learning **Backend**
+I’m a passionate developer focused on building **scalable, secure, and future-ready solutions**.  
+With hands-on experience in **MongoDB, Express.js, React.js, Node.js**, and core web technologies like **HTML, CSS, and JavaScript**, I love creating **modern, responsive, and user-friendly applications** that align with both client and business goals.  
 
-- 💬 Ask me about **Problem solving**
+💡 I’m continuously learning and exploring **DevOps tools and practices** to bridge development and operations — ensuring efficient, automated, and reliable software delivery.  
 
-- 📫 How to reach me **ataulrehmangee994@gmail.com**
+I aim to join **innovative teams in top tech companies**, combining my full-stack expertise with DevOps practices to deliver impactful results.  
+
+---
+
+### 💬 Ask Me About  
+- **Full-Stack Development**  
+- **Web App Architecture**  
+- **Problem Solving**  
+- **DevOps Tools & Automation**
+
+### 📫 How to Reach Me  
+- 📧 **ataulrehmangee994@gmail.com**  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
