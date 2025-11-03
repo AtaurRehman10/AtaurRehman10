@@ -1,6 +1,6 @@
 <!--Top Banner-->
 
-<img src="https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-header-image.png" align="center" style="width: 100%" />
+<img src="https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-header.png" align="center" style="width: 100%" />
 
 <!--Top Banner End-->
 
