@@ -49,11 +49,6 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
 <a href="https://www.instagram.com/ataulrehmangee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ataulrehman" height="30" width="40" /></a>
 </p>
 
-
-<br/>
-<br/>
-
-
 <h2 align="center">Let Me Feed on Data.🐍</h2>
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
@@ -138,4 +133,14 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   </a>
 </p>
 
+<h4 align="left">💡 Additional Skills:</h4>
+<p>
+  Data Structures & Algorithms (DSA),  
+  Object-Oriented Programming (OOP),  
+  Operating Systems,  
+  Computer Networking,  
+  System Design,  
+  Database Management Systems (DBMS),  
+  DevOps Practices (CI/CD, Docker, Kubernetes, Cloud)
+</p>
 
