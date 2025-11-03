@@ -31,6 +31,8 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
 
 ---
 
+<img align="right" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+
 ### 💬 Ask Me About  
 - **Full-Stack Development**  
 - **Web App Architecture**  
