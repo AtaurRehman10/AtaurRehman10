@@ -76,9 +76,10 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <!-- Express -->
+  <!-- Express (white background fix) -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"
+      width="40" height="40" style="background-color:white; border-radius:8px; padding:5px;"/>
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -88,9 +89,10 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <!-- Next.js -->
+  <!-- Next.js (invert color fix) -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"
+      width="40" height="40" style="filter: invert(1);"/>
   </a>
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -132,9 +134,10 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-2.svg" alt="digitalocean" width="40" height="40"/>
   </a>
-  <!-- Vercel -->
+  <!-- Vercel (invert color fix) -->
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel"
+      width="40" height="40" style="filter: invert(1);"/>
   </a>
   <!-- Slack -->
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
