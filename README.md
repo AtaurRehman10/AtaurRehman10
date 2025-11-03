@@ -34,7 +34,7 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
 <img 
   align="right" 
   width="400" 
-  src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" 
+  src="[https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)" 
   style="border-radius: 15px; border: 2px solid #555; box-shadow: 0 0 15px rgba(0,0,0,0.4); margin: 10px;"
 />
 
