@@ -22,16 +22,6 @@
 <!-- Snake Gif -->
 
 
-I’m a passionate developer focused on building **scalable, secure, and future-ready solutions**.  
-With hands-on experience in **MongoDB, Express.js, React.js, Node.js**, and core web technologies like **HTML, CSS, and JavaScript**, I love creating **modern, responsive, and user-friendly applications** that align with both client and business goals.  
-
-💡 I’m continuously learning and exploring **DevOps tools and practices** to bridge development and operations — ensuring efficient, automated, and reliable software delivery.  
-
-I aim to join **innovative teams in top tech companies**, combining my full-stack expertise with DevOps practices to deliver impactful results.  
-
----
-
-<img align="right" width="300"  src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
 ### 💬 Ask Me About  
@@ -51,6 +41,9 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
 <a href="https://www.facebook.com/ataulrehman.30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ataulrehman" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ataulrehmangee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ataulrehman" height="30" width="40" /></a>
 </p>
+
+---
+
 
 <h2 align="center">Let Me Feed on Data.🐍</h2>
 
