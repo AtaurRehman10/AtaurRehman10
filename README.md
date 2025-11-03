@@ -120,4 +120,13 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   </a>
 </p>
 
+<h4 align="left">💡 Additional Skills:</h4>
+<p>
+  Data Structures & Algorithms (DSA),  
+  Object-Oriented Programming (OOP),  
+  Operating Systems,  
+  Computer Networking,  
+  System Design,  
+  Database Management Systems (DBMS)
+</p>
 
