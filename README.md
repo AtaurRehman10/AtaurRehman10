@@ -68,7 +68,7 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <!-- SQL -->
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -76,10 +76,9 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <!-- Express (white background fix) -->
+  <!-- Express (white logo for dark mode) -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"
-      width="40" height="40" style="background-color:white; border-radius:8px; padding:5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color:white; border-radius:6px; padding:5px;"/>
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -89,10 +88,9 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <!-- Next.js (invert color fix) -->
+  <!-- Next.js (white icon fix) -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"
-      width="40" height="40" style="filter: invert(1);"/>
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="nextjs" width="40" height="40"/>
   </a>
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -126,18 +124,17 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
   </a>
-  <!-- AWS -->
+  <!-- AWS (light version for dark mode) -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="aws" width="40" height="40"/>
   </a>
   <!-- DigitalOcean -->
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-2.svg" alt="digitalocean" width="40" height="40"/>
   </a>
-  <!-- Vercel (invert color fix) -->
+  <!-- Vercel (white version) -->
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel"
-      width="40" height="40" style="filter: invert(1);"/>
+    <img src="https://skillicons.dev/icons?i=vercel&theme=light" alt="vercel" width="40" height="40"/>
   </a>
   <!-- Slack -->
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
@@ -149,14 +146,4 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
   </a>
 </p>
 
-<h4 align="left">💡 Additional Skills:</h4>
-<p>
-  Data Structures & Algorithms (DSA),  
-  Object-Oriented Programming (OOP),  
-  Operating Systems,  
-  Computer Networking,  
-  System Design,  
-  Database Management Systems (DBMS),  
-  DevOps Practices (CI/CD, Docker, Kubernetes, Cloud)
-</p>
 
