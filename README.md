@@ -31,7 +31,12 @@ I aim to join **innovative teams in top tech companies**, combining my full-stac
 
 ---
 
-<img align="right" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img 
+  align="right" 
+  width="400" 
+  src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" 
+  style="border-radius: 15px; border: 2px solid #555; box-shadow: 0 0 15px rgba(0,0,0,0.4); margin: 10px;"
+/>
 
 ### 💬 Ask Me About  
 - **Full-Stack Development**  
