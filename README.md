@@ -28,6 +28,7 @@ With hands-on experience in **MongoDB, Express.js, React.js, Node.js**, and core
 💡 I’m continuously learning and exploring **DevOps tools and practices** to bridge development and operations — ensuring efficient, automated, and reliable software delivery.  
 
 I aim to join **innovative teams in top tech companies**, combining my full-stack expertise with DevOps practices to deliver impactful results.  
+
 ---
 
 ### 💬 Ask Me About  
