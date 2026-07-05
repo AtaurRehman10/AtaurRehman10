@@ -25,9 +25,10 @@
 
 ```typescript
 const ataurRehman = {
-  role        : "Full-Stack Developer",
-  stack       : ["React", "Node.js", "Express", "MongoDB"],
-  learning    : ["System Design", "DevOps"],
+  role        : "Backend Developer | GenAI & Agentic AI Engineer ",
+  stack       : ["Python","FastAPI","React","Node.js","Express","MongoDB","PostgreSQL"],
+  ai          : ["LangChain","LangGraph","RAG","Vector Databases","Hugging Face"],
+  cloud       : ["AWS","Docker","Kubernetes","GitHub Actions","Ubuntu", "Bash" ],
   passion     : "Building scalable, real-world web applications",
   location    : "Islamabad, Pakistan 🇵🇰",
   funFact     : "I debug with console.log and I'm proud of it 😄",
