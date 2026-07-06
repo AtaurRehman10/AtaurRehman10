@@ -1,22 +1,18 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AtaurRehman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ataur%20Rehman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20%7C%20Backend%20Developer%20%7C%20GenAI%20Engineer&descSize=17&descAlignY=58" width="100%" />
+</div>
 
-<!-- Typing Animation -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ataur+Rehman+%F0%9F%91%8B;Full-Stack+Developer+(MERN+Stack);Building+Scalable+Web+Applications;From+Code+to+Cloud+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Ataur+Rehman+%F0%9F%91%8B;Backend+Developer+%7C+MERN+Stack+Developer;Learning+GenAI+%26+Agentic+AI;Building+Scalable+Web+Applications;From+Code+to+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+</div>
 
-<br/>
+<div align="center">
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=AtaurRehman10&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=AtaurRehman10&style=for-the-badge&color=00bcd4" alt="Profile Views" />
 <a href="https://github.com/AtaurRehman10?tab=followers">
-  <img src="https://img.shields.io/github/followers/AtaurRehman10?style=for-the-badge&color=0e75b6&labelColor=1c1c1c" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/AtaurRehman10?style=for-the-badge&color=00bcd4&labelColor=1c1c1c" alt="Followers" />
 </a>
-
 </div>
 
 ---
@@ -25,23 +21,29 @@
 
 ```typescript
 const ataurRehman = {
-  role        : "Backend Developer | GenAI & Agentic AI Engineer ",
-  stack       : ["Python","FastAPI","React","Node.js","Express","MongoDB","PostgreSQL"],
-  ai          : ["LangChain","LangGraph","RAG","Vector Databases","Hugging Face"],
-  cloud       : ["AWS","Docker","Kubernetes","GitHub Actions","Ubuntu", "Bash" ],
-  passion     : "Building scalable, real-world web applications",
-  location    : "Islamabad, Pakistan 🇵🇰",
-  funFact     : "I debug with console.log and I'm proud of it 😄",
+  role: "Backend Developer | Full-Stack Developer | GenAI Engineer",
+  techStack: {
+    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    backend: ["Node.js", "Express.js", "FastAPI", "Python"],
+    database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    ai: ["LangChain", "LangGraph", "RAG", "Vector Databases", "Hugging Face"],
+    devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions", "Linux"]
+  },
+  goal: "Building scalable, production-ready and AI-powered applications",
+  location: "Islamabad, Pakistan 🇵🇰",
+  funFact: "I debug with console.log and I'm proud of it 😄"
 };
 ```
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Working On
 
-- 📚 Deep-diving into **System Design**, and **DevOps**
-- 🎯 Targeting a **Full-Stack Developer** role at a top Pakistani startup
-- ♟️ Unwinding over **chess** when the bugs get too real
+- 🔥 Building **full-stack web applications**
+- 🤖 Learning **GenAI, RAG, LangChain and Agentic AI**
+- ⚙️ Improving my **backend architecture and system design**
+- ☁️ Exploring **DevOps, Docker, Kubernetes and AWS**
+- 🎯 Targeting strong **Full-Stack / Backend Developer** opportunities
 
 ---
 
@@ -50,46 +52,40 @@ const ataurRehman = {
 <div align="center">
 
 ### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### 🗄️ Database & State
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
+
+### ☁️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,ubuntu,bash,git,github,vercel" />
 
 ### 🧠 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtaurRehman10&theme=react-dark&hide_border=true&area=true&custom_title=Ataur%20Rehman's%20Contribution%20Graph" width="100%" />
+
 </div>
+
+---
+
+## 🐍 FUN Graph <div align="center"> <img src="https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg" alt="Snake animation"/> </div>
 
 ---
 
@@ -97,22 +93,28 @@ const ataurRehman = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ataurrehman-dev/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ataulrehman)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ataulrehmangee/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ataulrehman.30)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ataulrehmangee994@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
+<a href="https://www.linkedin.com/in/ataurrehman-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/ataulrehman">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/ataulrehmangee/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:ataulrehmangee994@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.upwork.com/">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
 
 </div>
 
----
-
-<div align="center">
-
-<!-- Bottom Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**"First, solve the problem. Then, write the code."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" />
 
 </div>
