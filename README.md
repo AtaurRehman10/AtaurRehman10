@@ -28,10 +28,7 @@ const ataurRehman = {
     database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
     ai: ["LangChain", "LangGraph", "RAG", "Vector Databases", "Hugging Face"],
     devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions", "Linux"]
-  },
-  goal: "Building scalable, production-ready and AI-powered applications",
-  location: "Islamabad, Pakistan 🇵🇰",
-  funFact: "I debug with console.log and I'm proud of it 😄"
+  }
 };
 ```
 
