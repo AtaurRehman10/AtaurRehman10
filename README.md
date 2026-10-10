@@ -19,30 +19,10 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const ataurRehman = {
-  role: "Backend Developer | Full-Stack Developer | GenAI Engineer",
-  techStack: {
-    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend: ["Node.js", "Express.js", "FastAPI", "Python"],
-    database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    ai: ["LangChain", "LangGraph", "RAG", "Vector Databases", "Hugging Face"],
-    devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions", "Linux"]
-  }
-};
-```
+<!-- Neofetch-style card with ASCII portrait (see /scripts to regenerate) --> <img src="./assets/neofetch.svg" alt="ataur@rehman — neofetch-style profile card with ASCII portrait" width="100%" /> </div>
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🔥 Building **full-stack web applications**
-- 🤖 Learning **GenAI, RAG, LangChain and Agentic AI**
-- ⚙️ Improving my **backend architecture and system design**
-- ☁️ Exploring **DevOps, Docker, Kubernetes and AWS**
-- 🎯 Targeting strong **Full-Stack / Backend Developer** opportunities
-
----
 
 ## 🛠️ Tech Stack
 
@@ -72,15 +52,6 @@ const ataurRehman = {
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtaurRehman10&theme=react-dark&hide_border=true&area=true&custom_title=Ataur%20Rehman's%20Contribution%20Graph" width="100%" />
-
-</div>
-
----
 
 ## 🐍 FUN Graph <div align="center"> <img src="https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg" alt="Snake animation"/> </div>
 
